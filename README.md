@@ -4,5 +4,5 @@
 
 <img src="assets/Screen Shot 2022-06-19 at 1.04.38 PM.png">
 
-Deployed application link:
+Deployed application link: https://aleenaalexia.github.io/Daily-Scheduler/
 
